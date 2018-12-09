@@ -1,0 +1,15 @@
+Package: listutils
+Title: listutils
+Description: Utilities to work with list and lists of vectors.
+Version: 0.0.1
+Date: 2018-12-09
+Author: Augustin Luna
+Maintainer: Augustin Luna <lunaa@cbio.mskcc.org>
+Depends:
+    R (>= 3.1.1)
+License: LGPL
+Suggests: 
+    knitr
+VignetteBuilder:
+    knitr
+RoxygenNote: 6.0.1
